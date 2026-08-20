@@ -1,15 +1,22 @@
-## Hi there 👋
+# Hi, I'm Eden 👋
 
-<!--
-**edenhandom/edenhandom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science graduate from **Washington University in St. Louis** with experience in data analytics, software development, and AI/ML. I'm interested in how **technology, data, and product** come together to solve real-world problems.
 
-Here are some ideas to get you started:
+### Featured Projects
 
-- I just recently completed an exciting Machine Learning project ulitizing frequentist and bayesian frameworks check it out [here](https://github.com/s-bhatia1216/unwrapping-customer-delight)!
-- How to reach me: andomheden@gmail.com
-- Pronouns: she/her
--->
+**[MoodMix](https://github.com/edenhandom/mood-mix)**  
+AI-powered music recommendation application integrating Spotify and OpenAI APIs to generate personalized recommendations based on user preferences and listening history.
 
-- I just recently completed an exciting Machine Learning project ulitizing frequentist and bayesian frameworks check it out [here](https://github.com/s-bhatia1216/unwrapping-customer-delight)!
-- How to reach me: andomheden@gmail.com
-- Pronouns: she/her
+**Respiratory Patient Ventilation Prediction**  
+Machine learning project using MIMIC-III clinical data to predict mechanical ventilation status, achieving 0.80 AUROC. The dataset requires credentialed access through PhysioNet and is not included in this repository.
+
+**[Customer Spending Analysis for Estée Lauder](https://github.com/s-bhatia1216/unwrapping-customer-delight)**  
+Statistical modeling project using OLS and Bayesian MCMC regression to identify drivers of customer spending and translate findings into actionable customer engagement recommendations.
+
+### 🔨 Currently Building
+
+**PipelineGuard** — A monitoring tool for data pipelines, inspired by observability platforms like Datadog.
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/ehandom) · [Email](mailto:andomheden@gmail.com)
