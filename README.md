@@ -1,6 +1,6 @@
 # Hi, I'm Eden 👋
 
-I'm a Data Science graduate from **Washington University in St. Louis** with experience in data analytics, software development, and AI/ML. I'm interested in how **technology, data, and product** come together to solve real-world problems.
+I'm a Data Science graduate from **Washington University in St. Louis** interested in how **technology, data, and product** come together to solve real-world problems.
 
 ### Featured Projects
 
