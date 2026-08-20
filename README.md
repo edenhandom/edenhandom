@@ -13,7 +13,7 @@ Machine learning project using MIMIC-III clinical data to predict mechanical ven
 **[Customer Spending Analysis for Estée Lauder](https://github.com/s-bhatia1216/unwrapping-customer-delight)**  
 Statistical modeling project using OLS and Bayesian MCMC regression to identify drivers of customer spending and translate findings into actionable customer engagement recommendations.
 
-### 🔨 Currently Building
+### Currently Building
 
 **PipelineGuard** — A monitoring tool for data pipelines, inspired by observability platforms like Datadog.
 
