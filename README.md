@@ -2,7 +2,7 @@
 
 I'm a Data Science graduate from **Washington University in St. Louis** interested in how **technology, data, and product** come together to solve real-world problems.
 
-### Featured Projects
+### Featured Resume Projects
 
 **[Customer Spending Analysis for Estée Lauder](https://github.com/s-bhatia1216/unwrapping-customer-delight)**  
 Statistical modeling project using OLS and Bayesian MCMC regression to identify drivers of customer spending and translate findings into actionable customer engagement recommendations.
