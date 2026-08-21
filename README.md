@@ -4,14 +4,14 @@ I'm a Data Science graduate from **Washington University in St. Louis** interest
 
 ### Featured Projects
 
-**[MoodMix](https://github.com/edenhandom/mood-mix)**  
-AI-powered music recommendation application integrating Spotify and OpenAI APIs to generate personalized recommendations based on user preferences and listening history.
+**[Customer Spending Analysis for Estée Lauder](https://github.com/s-bhatia1216/unwrapping-customer-delight)**  
+Statistical modeling project using OLS and Bayesian MCMC regression to identify drivers of customer spending and translate findings into actionable customer engagement recommendations.
 
 **Respiratory Patient Ventilation Prediction**  
 Machine learning project using MIMIC-III clinical data to predict mechanical ventilation status, achieving 0.80 AUROC. The dataset requires credentialed access through PhysioNet and is not included in this repository.
 
-**[Customer Spending Analysis for Estée Lauder](https://github.com/s-bhatia1216/unwrapping-customer-delight)**  
-Statistical modeling project using OLS and Bayesian MCMC regression to identify drivers of customer spending and translate findings into actionable customer engagement recommendations.
+**[MoodMix](https://github.com/edenhandom/mood-mix)**  
+AI-powered music recommendation application integrating Spotify and OpenAI APIs to generate personalized recommendations based on user preferences and listening history.
 
 ### Currently Building
 
